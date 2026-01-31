@@ -1,0 +1,5 @@
+{
+  "name": "EHRA 2021 NOAC DDI Checker",
+  "description": "A clinical tool for checking Drug-Drug Interactions with NOACs based on the 2021 EHRA Practical Guide.",
+  "requestFramePermissions": []
+}
